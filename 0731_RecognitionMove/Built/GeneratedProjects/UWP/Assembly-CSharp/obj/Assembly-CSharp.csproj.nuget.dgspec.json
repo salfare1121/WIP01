@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Taku Yamane\\Desktop\\Wellcomp\\WIP01\\0727_RecognitionTest\\Built\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Taku Yamane\\Desktop\\Wellcomp\\WIP01\\0727_RecognitionTest\\Built\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taku Yamane\\Desktop\\Wellcomp\\WIP01\\0727_RecognitionTest\\Built\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "C:\\Users\\Taku Yamane\\Desktop\\Wellcomp\\WIP01\\0727_RecognitionTest\\Built\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+        "projectJsonPath": "C:\\Users\\Taku Yamane\\Desktop\\Wellcomp\\WIP01\\0727_RecognitionTest\\Built\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+        "packagesPath": "C:\\Users\\Taku Yamane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taku Yamane\\Desktop\\Wellcomp\\WIP01\\0727_RecognitionTest\\Built\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
+        "projectStyle": "ProjectJson",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taku Yamane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.ApplicationInsights": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.PersistenceChannel": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.WindowsApps": "[1.0.0, )",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

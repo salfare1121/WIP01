@@ -1,0 +1,2 @@
+C:\Users\Taku Yamane\Desktop\Wellcomp\WIP01\0727_RecognitionTest\Built\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Taku Yamane\Desktop\Wellcomp\WIP01\0731_RecognitionMove\Built\0727_RecognitionTest\0727_RecognitionTest.csproj;x86
